@@ -1,0 +1,16 @@
+{
+  "name": "WebApp01" ,
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "start": "node app",
+    "test": "mocha test/*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
